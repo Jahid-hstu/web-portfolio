@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.top-wrap{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    z-index: 100;
+    float: left;
+    background-size: cover;
+    margin-bottom: 150px;
+}
+.top-wrap-left{
+    width: 500px;
+    float: left;
+    margin-left: 100px;
+}
+.top-wrap-right{
+    width: 0%;
+    float: right;
+    margin-left: 50px;
+}
+.highlight{
+    color: tomato;
+}
+.top-pic {
+    width: 300px;
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 40px;
+}
+.stage{
+    margin-top: 130px;
+}
+.link {
+    padding: 8px 15px;
+    background-image: linear-gradient(45deg,tomato, #d14040);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+p{
+    font-size: 18;
+}
+.middle-left{
+    width: 50%;
+    float: left;
+}
+.middle-pic{
+    width:300px;
+}
+.middle-left{
+    margin-left: 100px;
+}
+.middle-right{
+    width: 40%;
+    float: left;
+    mar
+    gin-top:100px;
+}
+.middle-wrap{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    
+    float: left;
+}
+.bottom-wrap{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
